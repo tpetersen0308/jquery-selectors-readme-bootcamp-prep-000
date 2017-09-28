@@ -8,3 +8,18 @@ function lastImageSelector() {
   const lastImage = $('img:last')
   return lastImage
 }
+
+function ninjaBabySelector() {
+  const ninjaBaby = $('#baby-ninja')
+  return ninjaBaby
+}
+
+function divSelector() {
+  const divs = $('.pics')
+  return divs
+}
+
+function firstListItem() {
+  const first = $("ul #pic-list:first-child")
+  return first
+}
