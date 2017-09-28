@@ -3,4 +3,3 @@ function paragraphSelector() {
   const pars = $('p')
   return const
 }
-
